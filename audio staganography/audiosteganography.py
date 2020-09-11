@@ -13,7 +13,7 @@ def encode(messageinascii,lengthofmessage):
     with extension
     **********************************************************
     make sure its 
-    >mono channel file (stereo channel audios in future build)
+    >mono channel file
     ->16 bit depth 
      -->pcm coded
 	--->wav file
